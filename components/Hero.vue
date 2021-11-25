@@ -1,11 +1,4 @@
 <template>
-  <!-- <div
-    v-editable="blok"
-    class="py-8 mb-6 text-5xl font-bold text-center bg-gray-200">
-    {{ blok.headline }}
-    {{ blok.name }}
-  </div> -->
-  <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="relative bg-white overflow-hidden">
     <div class="max-w-7xl mx-auto">
       <div
